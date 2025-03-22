@@ -1,0 +1,20 @@
+{
+  "name": "student-grade",
+  "version": "1.0.0",
+  "description": "Speed Detector This project reads the speed of a car and calculates it. If the speed limit exceeds the license is suspended",
+  "main": "speed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monicah-monic/student-grade.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monicah-monic/student-grade/issues"
+  },
+  "homepage": "https://github.com/monicah-monic/student-grade#readme"
+}
